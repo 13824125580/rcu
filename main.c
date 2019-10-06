@@ -72,4 +72,3 @@ int main(void)
         pthread_join(thread[t], NULL);
     return EXIT_SUCCESS;
 }
-
